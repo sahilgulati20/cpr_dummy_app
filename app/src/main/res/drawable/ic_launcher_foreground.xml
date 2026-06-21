@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Pulse Line decoration representing healthy heartbeat -->
+    <path
+        android:pathData="M15,54 L35,54 L42,34 L49,74 L56,44 L61,54 L93,54"
+        android:strokeWidth="4"
+        android:strokeColor="#FFCDD2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Center Heart Icon representing active chest compression rescue work -->
+    <path
+        android:pathData="M54,42 C50,33 38,33 38,45 C38,57 54,72 54,72 C54,72 70,57 70,45 C70,33 58,33 54,42 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#E53935" />
+</vector>
